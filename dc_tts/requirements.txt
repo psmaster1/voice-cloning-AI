@@ -1,0 +1,7 @@
+NumPy>=1.11.1
+tensorflow==1.15
+tensorflow-gpu==1.15
+librosa
+tqdm
+matplotlib
+scipy

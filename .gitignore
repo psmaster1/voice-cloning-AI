@@ -1,0 +1,30 @@
+# Editor
+.idea/*
+dc_tts/.idea/*
+
+# Audio + Transcript
+dc_tts/data/private/kogler
+dc_tts/data/private/wolf
+dc_tts/data/private/kurz
+
+# Output
+dc_tts/de/.ipynb_checkpoints
+dc_tts/de/logdir-1/.ipynb_checkpoints
+dc_tts/de/logdir-2/.ipynb_checkpoints
+dc_tts/de/de.txt
+dc_tts/de/logdir-1/
+dc_tts/de/logdir-2/
+dc_tts/kogler/
+dc_tts/wolf/
+dc_tts/kurz/
+dc_tts/harvard_sentences.txt
+dc_tts/tvars_ssrn.csv
+dc_tts/tvars_text2mel.csv
+include/
+Kogler sätze/
+Basti sätze/
+Lib/
+MOS/sents/.ipynb_checkpoints
+tacotron/
+Wolf/
+Scripts/
